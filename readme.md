@@ -7,9 +7,13 @@ python -m venv venv
 ```
 - Activate the python environment
 ```
-.\venv\bin\activate
+.\venv\biScriptsn\activate
 ```
 - Install any libraries 
 ```
 pip install -r requirements.txt
+```
+- Run it
+```
+python app.py
 ```
